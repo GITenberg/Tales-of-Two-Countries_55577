@@ -1,0 +1,39 @@
+_repo: Tales-of-Two-Countries_55577
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxim
+    - Горький, Максим
+    - Gorky, Maxime
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2017-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- GITenberg
+tableOfContents: 'Italian tales: Man and the Simplon. An unwritten sonata. Sun and
+  sea. Love of lovers. Hearts and creeds. The traitor''s mother. The freak. The might
+  of motherhood. A message from the sea. The honour of the village. The socialist.
+  The hunchback. On the steamer -- Russian tales: The professor. The poet. The writer.
+  The man with a national face. The liberal. The Jews and their friends. Hard to please.
+  Passive resistance. Making a superman.'
+title: Tales of Two Countries
+url: http://www.gutenberg.org/ebooks/55577
